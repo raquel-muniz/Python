@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="10" height="15" tilewidth="128" tileheight="128" infinite="0" nextlayerid="5" nextobjectid="63">
+ <tileset firstgid="1" source="TILED_tsx/medieval/MedievalRTS.tsx"/>
+ <layer id="1" name="FUNDO" width="10" height="15">
+  <data encoding="csv">
+227,228,227,228,227,228,227,228,227,228,
+227,228,227,228,227,228,227,228,227,228,
+227,228,227,228,227,228,227,228,227,228,
+227,228,227,228,227,228,227,228,227,228,
+227,228,227,228,227,228,227,228,227,228,
+227,228,227,228,227,228,227,228,227,228,
+227,228,227,228,227,228,227,228,227,228,
+227,228,227,228,227,228,227,228,227,228,
+227,228,227,228,227,228,227,228,227,228,
+227,228,227,228,227,228,227,228,227,228,
+227,228,227,228,227,228,227,228,227,228,
+227,228,227,228,227,228,227,228,227,228,
+227,228,227,228,227,228,227,228,227,228,
+227,228,227,228,227,228,227,228,227,228,
+227,228,227,228,227,228,227,228,227,228
+</data>
+ </layer>
+ <objectgroup id="4" name="Cortados">
+  <object id="32" gid="130" x="578.847" y="422.191" width="128" height="128"/>
+  <object id="33" gid="130" x="785.222" y="253.77" width="128" height="128"/>
+  <object id="34" gid="130" x="358.239" y="211.072" width="128" height="128"/>
+  <object id="35" gid="130" x="872.99" y="623.822" width="128" height="128"/>
+  <object id="36" gid="130" x="116.282" y="728.196" width="128" height="128"/>
+  <object id="37" gid="130" x="313.168" y="1314.11" width="128" height="128"/>
+  <object id="38" gid="130" x="894.34" y="1499.14" width="128" height="128"/>
+  <object id="39" gid="130" x="434.147" y="1567.93" width="128" height="128"/>
+  <object id="40" gid="130" x="863.502" y="1812.26" width="128" height="128"/>
+  <object id="41" gid="130" x="1027.18" y="896.617" width="128" height="128"/>
+  <object id="42" gid="130" x="111.537" y="1131.46" width="128" height="128"/>
+  <object id="43" gid="130" x="128.142" y="1783.79" width="128" height="128"/>
+  <object id="44" gid="130" x="671.36" y="1821.75" width="128" height="128"/>
+  <object id="45" gid="130" x="780.477" y="1171.78" width="128" height="128"/>
+  <object id="46" gid="130" x="201.678" y="388.981" width="128" height="128"/>
+  <object id="47" gid="130" x="35.6294" y="168.374" width="128" height="128"/>
+  <object id="48" gid="130" x="1105.46" y="147.024" width="128" height="128"/>
+  <object id="49" gid="130" x="877.735" y="381.865" width="128" height="128"/>
+  <object id="50" gid="130" x="377.216" y="246.654" width="128" height="128"/>
+  <object id="51" gid="130" x="199.306" y="286.98" width="128" height="128"/>
+  <object id="52" gid="130" x="673.732" y="545.542" width="128" height="128"/>
+  <object id="53" gid="130" x="467.357" y="804.104" width="128" height="128"/>
+  <object id="54" gid="130" x="294.191" y="842.058" width="128" height="128"/>
+  <object id="55" gid="130" x="246.749" y="1226.34" width="128" height="128"/>
+  <object id="56" gid="130" x="747.268" y="1449.32" width="128" height="128"/>
+  <object id="57" gid="130" x="1136.3" y="1328.34" width="128" height="128"/>
+  <object id="58" gid="130" x="970.248" y="1798.03" width="128" height="128"/>
+  <object id="59" gid="130" x="623.917" y="1876.31" width="128" height="128"/>
+  <object id="60" gid="130" x="483.961" y="1658.07" width="128" height="128"/>
+  <object id="61" gid="130" x="52.2342" y="1608.26" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="2" name="Pinheiros">
+  <object id="1" gid="129" x="578.847" y="422.191" width="128" height="128"/>
+  <object id="2" gid="129" x="785.222" y="253.77" width="128" height="128"/>
+  <object id="3" gid="129" x="358.239" y="211.072" width="128" height="128"/>
+  <object id="4" gid="129" x="872.99" y="623.822" width="128" height="128"/>
+  <object id="5" gid="129" x="116.282" y="728.196" width="128" height="128"/>
+  <object id="6" gid="129" x="313.168" y="1314.11" width="128" height="128"/>
+  <object id="7" gid="129" x="894.34" y="1499.14" width="128" height="128"/>
+  <object id="8" gid="129" x="434.147" y="1567.93" width="128" height="128"/>
+  <object id="9" gid="129" x="863.502" y="1812.26" width="128" height="128">
+   <properties>
+    <property name="corte" type="object" value="40"/>
+   </properties>
+  </object>
+  <object id="10" gid="129" x="1027.18" y="896.617" width="128" height="128"/>
+  <object id="11" gid="129" x="111.537" y="1131.46" width="128" height="128"/>
+  <object id="12" gid="129" x="128.142" y="1783.79" width="128" height="128"/>
+  <object id="13" gid="129" x="671.36" y="1821.75" width="128" height="128"/>
+  <object id="14" gid="129" x="780.477" y="1171.78" width="128" height="128"/>
+  <object id="15" gid="129" x="201.678" y="388.981" width="128" height="128"/>
+  <object id="16" gid="129" x="35.6294" y="168.374" width="128" height="128">
+   <properties>
+    <property name="corte" type="object" value="47"/>
+   </properties>
+  </object>
+  <object id="17" gid="129" x="1105.46" y="147.024" width="128" height="128"/>
+  <object id="18" gid="128" x="877.735" y="381.865" width="128" height="128"/>
+  <object id="19" gid="128" x="377.216" y="246.654" width="128" height="128"/>
+  <object id="20" gid="128" x="199.306" y="286.98" width="128" height="128"/>
+  <object id="21" gid="128" x="673.732" y="545.542" width="128" height="128"/>
+  <object id="22" gid="128" x="467.357" y="804.104" width="128" height="128"/>
+  <object id="23" gid="128" x="294.191" y="842.058" width="128" height="128"/>
+  <object id="24" gid="128" x="246.749" y="1226.34" width="128" height="128"/>
+  <object id="25" gid="128" x="747.268" y="1449.32" width="128" height="128"/>
+  <object id="26" gid="128" x="1136.3" y="1328.34" width="128" height="128"/>
+  <object id="27" gid="128" x="970.248" y="1798.03" width="128" height="128"/>
+  <object id="28" gid="128" x="623.917" y="1876.31" width="128" height="128">
+   <properties>
+    <property name="corte" type="object" value="59"/>
+   </properties>
+  </object>
+  <object id="29" gid="128" x="483.961" y="1658.07" width="128" height="128"/>
+  <object id="30" gid="128" x="52.2342" y="1608.26" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup id="3" name="Camada de Objetos 2"/>
+</map>
