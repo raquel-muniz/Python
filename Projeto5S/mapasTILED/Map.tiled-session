@@ -1,0 +1,271 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/mapaTESTE.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "01.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Asset Pack Free/ChestAnim.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Asset Pack Free/House.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Asset Pack Free/PotAnim.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Asset Pack Free/TilesetForest.tsx": {
+            "dynamicWrapping": false
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Beach.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Bridge_Wood.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Chicken.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Cliff.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 8
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Cow.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/House.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Path_Tile.tsx": {
+            "dynamicWrapping": false
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Pig.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Player.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Player/Player.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Player_Actions.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Sheep.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Skeleton.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Slime.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Slime_Green.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Water.tsx": {
+            "dynamicWrapping": false
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Fantasyville Free Asset pack/Fantasyville Base Assets/Characters free.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Fantasyville Free Asset pack/Fantasyville Base Assets/Characters.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Fantasyville Free Asset pack/Fantasyville Base Assets/fantasyville.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/MagicMarket/Background/Items.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/MagicMarket/Background/TilesetFloor.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/MagicMarket/Background/TilesetNatures.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/MagicMarket/Background/TilesetProps.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/MagicMarket/Background/TilesetProps02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Pixel Houses RPG/Houses Sprite Sheet.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.33
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Pixel Houses RPG/Houses.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Top-Down_Retro_Interior/TopDownHouse_FloorsAndWalls.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Top-Down_Retro_Interior/TopDownHouse_SmallItems.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Top-Down_Retro_Interior/furniture.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Top-Down_Retro_Interior/furniture1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/kenney_animal-pack/MaisBichos.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/kenney_medieval-rts/Medieval.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/kenney_pixel-platformer-farm-expansion/farm.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/kenney_ui-pack-rpg-expansion/UserChoiceWood.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.33
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/medieval/Medieval.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/medievalrts/Medieval.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/medievalrts/medieval_tilesheet.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/UrbanPack.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/mapaTESTE.tmx": {
+            "scale": 0.35328125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1244.0513047324193,
+                "y": 975.1437417072093
+            }
+        },
+        "House.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "TILED_tsx/medieval/Medieval.tsx": {
+            "scaleInDock": 1
+        },
+        "TelaInicial.tmj": {
+            "scale": 5.05875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 79.96046454163577,
+                "y": 79.96046454163577
+            }
+        },
+        "mapa2.tmj": {
+            "scale": 0.63234375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 639.6837163330862,
+                "y": 639.6837163330862
+            }
+        },
+        "mapaTESTE.tmx": {
+            "scale": 0.2711458333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 639.8770649250866,
+                "y": 960.7376104494815
+            }
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free",
+    "last.imagePath": "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Outdoor decoration",
+    "map.fixedSize": false,
+    "map.height": 18,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/mapaTESTE.tmx"
+    ],
+    "project": "Map.tiled-project",
+    "property.type": "object",
+    "recentFiles": [
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/House.tsx",
+        "House.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Pixel Houses RPG/Houses.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Top-Down_Retro_Interior/furniture1.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Top-Down_Retro_Interior/TopDownHouse_SmallItems.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Top-Down_Retro_Interior/TopDownHouse_FloorsAndWalls.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Top-Down_Retro_Interior/furniture.tsx",
+        "01.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/UrbanPack.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/kenney_ui-pack-rpg-expansion/UserChoiceWood.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/medievalrts/Medieval.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/medievalrts/medieval_tilesheet.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#878787",
+    "tileset.useTransparentColor": false
+}
