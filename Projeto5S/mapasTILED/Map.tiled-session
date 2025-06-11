@@ -3,12 +3,18 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/mapaTESTE.tmx",
+    "activeFile": "MapaInf.tmx",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
     "fileStates": {
         "": {
+            "scaleInDock": 1
+        },
+        "#Cliff": {
+            "scaleInDock": 1
+        },
+        "#TilesetHouse": {
             "scaleInDock": 1
         },
         "01.tsx": {
@@ -30,7 +36,8 @@
             "scaleInEditor": 8
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Asset Pack Free/TilesetForest.tsx": {
-            "dynamicWrapping": false
+            "dynamicWrapping": false,
+            "scaleInDock": 1
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Beach.tsx": {
             "dynamicWrapping": false,
@@ -52,12 +59,24 @@
             "scaleInDock": 1,
             "scaleInEditor": 8
         },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/CuteFantasy.Beach.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Dirt - simplified.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/FarmLand_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 23
+        },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/House.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 8
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Path_Tile.tsx": {
-            "dynamicWrapping": false
+            "dynamicWrapping": false,
+            "scaleInDock": 1
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Pig.tsx": {
             "dynamicWrapping": false,
@@ -95,7 +114,20 @@
             "scaleInEditor": 1
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Water.tsx": {
-            "dynamicWrapping": false
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cuter Fatter Goats.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Emberwild Crops Pack Demo/Emberwild Crops Pack Demo/Crops and Others.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Emberwild Crops Pack Demo/Emberwild Crops Pack Demo/plants.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Fantasyville Free Asset pack/Fantasyville Base Assets/Characters free.tsx": {
             "dynamicWrapping": false,
@@ -108,7 +140,92 @@
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Fantasyville Free Asset pack/Fantasyville Base Assets/fantasyville.tsx": {
             "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Farming n Foraging [sample]/Hana Caraka - Farming n Foraging [sample]/crops - all.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Farming n Foraging [sample]/Hana Caraka - Farming n Foraging [sample]/flowers - all.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Farming n Foraging [sample]/Hana Caraka - Farming n Foraging [sample]/oyster.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Livestock & Fish [Sample]/Hana Caraka - Livestock & Fish [Sample]/Calf.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Livestock & Fish [Sample]/Hana Caraka - Livestock & Fish [Sample]/Cow.tsx": {
+            "scaleInDock": 4,
             "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Livestock & Fish [Sample]/Hana Caraka - Livestock & Fish [Sample]/Crops and Others.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Bush.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Dirt - simplified.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Flower.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Grass.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Other.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Props-All.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Spring - simplified.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Stone and Rock.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Summer - simplified.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Texture.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Tree.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Tufts and Lumps.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Water Plants.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Winter - simplified.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/a.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/MagicMarket/Background/Items.tsx": {
             "scaleInDock": 1,
@@ -131,6 +248,131 @@
             "scaleInDock": 1,
             "scaleInEditor": 5.5
         },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Elements.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FacesetBlack.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Items/All.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/SpriteSheetWhite.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/SpriteSheetWhiteSide.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 11
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetDesert.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetElement.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetHouse.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetInterior.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetInteriorFloor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetNature.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetVillageAbandoned.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetWallSimple.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TopDownHouse_FurnitureState1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/animais.tsx": {
+            "dynamicWrapping": true
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/animais/brownHorse.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/animais/chicken.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/animais/chickenBlack.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 11
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/animais/chickenCute.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/animais/chickenWhite.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/animais/cow.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/animais/cowSide.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/animais/horse.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/brownHorse.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/chicken.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 11
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/chickenBlack.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/chickenCute.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 11
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/chickenWhite.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/food.tsx": {
+            "dynamicWrapping": true
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/horse.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 11
+        },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Pixel Houses RPG/Houses Sprite Sheet.tsx": {
             "dynamicWrapping": true,
             "scaleInDock": 1,
@@ -138,6 +380,10 @@
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Pixel Houses RPG/Houses.tsx": {
             "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Retro Pixel Ribbons, Banners and Frames 2/14.tsx": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Top-Down_Retro_Interior/TopDownHouse_FloorsAndWalls.tsx": {
@@ -153,6 +399,22 @@
             "scaleInEditor": 2
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Top-Down_Retro_Interior/furniture1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/farming-pack-free_version/free_campfire.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/farming-pack-free_version/free_farm_plants1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/farming-pack-free_version/free_farm_plants2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/free version/free version/free.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 3
         },
@@ -188,22 +450,55 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/mystic_woods_free_2.2/wooden.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 11
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/nature free/nature free/global.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/stardew valley/PC Computer - Stardew Valley - Crops.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/UrbanPack.tsx": {
             "dynamicWrapping": true,
             "scaleInDock": 1,
             "scaleInEditor": 3
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/mapaTESTE.tmx": {
-            "scale": 0.35328125,
+            "scale": 0.25,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1244.0513047324193,
-                "y": 975.1437417072093
+                "x": 682,
+                "y": 650
             }
         },
         "House.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 5.5
+        },
+        "MapaInf.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 889.6666666666667,
+                "y": -618.3333333333333
+            }
+        },
+        "MapaInf.tmx#Cliff": {
+            "scaleInDock": 1
+        },
+        "MapaInf.tmx#TilesetDesert": {
+            "scaleInDock": 1
+        },
+        "MapaInf.tmx#TilesetHouse": {
+            "scaleInDock": 1
         },
         "TILED_tsx/medieval/Medieval.tsx": {
             "scaleInDock": 1
@@ -231,41 +526,72 @@
                 "x": 639.8770649250866,
                 "y": 960.7376104494815
             }
+        },
+        "mapinha.tmx": {
+            "expandedGroupLayers": [
+                22,
+                12,
+                15
+            ],
+            "expandedObjectLayers": [
+                20
+            ],
+            "scale": 4,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 344.375,
+                "y": 12.5
+            }
+        },
+        "mapinha.tmx#Cliff": {
+            "scaleInDock": 1
+        },
+        "mapinha.tmx#TilesetDesert": {
+            "scaleInDock": 1
+        },
+        "mapinha.tmx#TilesetHouse": {
+            "scaleInDock": 3
         }
     },
     "last.externalTilesetPath": "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free",
-    "last.imagePath": "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/Outdoor decoration",
+    "last.imagePath": "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/stardew valley",
     "map.fixedSize": false,
     "map.height": 18,
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/mapaTESTE.tmx"
+        "MapaInf.tmx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Props-All.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetHouse.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetDesert.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetNature.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetElement.tsx"
     ],
     "project": "Map.tiled-project",
     "property.type": "object",
     "recentFiles": [
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free/House.tsx",
-        "House.tsx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Pixel Houses RPG/Houses.tsx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Top-Down_Retro_Interior/furniture1.tsx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Top-Down_Retro_Interior/TopDownHouse_SmallItems.tsx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Top-Down_Retro_Interior/TopDownHouse_FloorsAndWalls.tsx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Top-Down_Retro_Interior/furniture.tsx",
-        "01.tsx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/UrbanPack.tsx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/kenney_ui-pack-rpg-expansion/UserChoiceWood.tsx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/medievalrts/Medieval.tsx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/medievalrts/medieval_tilesheet.tsx"
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/stardew valley/PC Computer - Stardew Valley - Crops.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/free version/free version/free.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/nature free/nature free/global.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Farming n Foraging [sample]/Hana Caraka - Farming n Foraging [sample]/crops - all.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/farming-pack-free_version/free_farm_plants2.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Emberwild Crops Pack Demo/Emberwild Crops Pack Demo/Crops and Others.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Props-All.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetElement.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetNature.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetDesert.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetHouse.tsx",
+        "MapaInf.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.margin": 0,
     "tileset.spacing": 0,
     "tileset.tileSize": {
-        "height": 16,
-        "width": 16
+        "height": 32,
+        "width": 32
     },
-    "tileset.transparentColor": "#878787",
+    "tileset.transparentColor": "#e4a672",
+    "tileset.type": 0,
     "tileset.useTransparentColor": false
 }
