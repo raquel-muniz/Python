@@ -3,7 +3,8 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "mapinha.tmx",
+    "activeFile": "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj",
+    "automapping.whileDrawing": true,
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
@@ -18,6 +19,25 @@
             "scaleInDock": 1
         },
         "01.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Adventure_Character_Simple.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Adventure_Character_Simplet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/AppData/Local/Temp/MicrosoftEdgeDownloads/9c41385d-f063-4b18-aee7-378611d6fd67/tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/AppData/Local/Temp/MicrosoftEdgeDownloads/cfab42f2-aeff-4c0b-9ef9-8ae7300f99b9/tileset.tsx": {
             "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -225,6 +245,11 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Stone and Rock.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Stone and Rock.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -236,6 +261,10 @@
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Texture.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Tree.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Tree.tsx": {
             "scaleInDock": 1,
@@ -444,9 +473,26 @@
             "scaleInDock": 1,
             "scaleInEditor": 3
         },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/free version/Adventure_Character_Simple.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/free version/free version/Adventure_Character_Simple.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/free version/free version/Pokemon's Sprite.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/free version/free version/Pratos.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 2
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/free version/free version/baixados (2).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/free version/free version/baixados.tsx": {
             "scaleInDock": 1,
@@ -463,6 +509,164 @@
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/free version/free version/variedade.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/free version/free version/xp_tiles_goods_by_schwarzenacht_datsi16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj": {
+            "expandedGroupLayers": [
+                39
+            ],
+            "expandedObjectLayers": [
+                36
+            ],
+            "scale": 2,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": -52,
+                "y": 1210.75
+            }
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#Bridge_Wood": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#Calf": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#Chick": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#Chicken": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#Cliff": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#Cow": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#CuteFantasy.Beach": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#FarmLand_Tile": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#Icons": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#PC Computer - Stardew Valley - Crops": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#Path_Tile": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#Props-All": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#TilesetDesert": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#TilesetElement": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#TilesetHouse": {
+            "scaleInDock": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#TilesetVillageAbandoned": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#farm_exterior_tileset_by_aveontrainer_dej3gqt": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#forest_demo_objects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#free_farm_plants1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx": {
+            "expandedGroupLayers": [
+                39
+            ],
+            "expandedObjectLayers": [
+                36
+            ],
+            "scale": 0.5,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": 1656,
+                "y": 971
+            }
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#Bridge_Wood": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#Calf": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#Chick": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#Chicken": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#Cliff": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#Cow": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#CuteFantasy.Beach": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#FarmLand_Tile": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#Icons": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#PC Computer - Stardew Valley - Crops": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#Path_Tile": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#Props-All": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1.5
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#TilesetDesert": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#TilesetElement": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#TilesetHouse": {
+            "scaleInDock": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#TilesetVillageAbandoned": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#farm_exterior_tileset_by_aveontrainer_dej3gqt": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#forest_demo_objects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx#free_farm_plants1": {
+            "scaleInDock": 1
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/kenney_animal-pack/MaisBichos.tsx": {
             "scaleInDock": 1,
@@ -516,10 +720,47 @@
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/stardew valley/farm_exterior_tileset_by_aveontrainer_dej3gqt32.tsx": {
             "scaleInDock": 1
         },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/AllPreview.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/Cow.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/Faceset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/SpriteSheet.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/UrbanPack.tsx": {
             "dynamicWrapping": true,
             "scaleInDock": 1,
-            "scaleInEditor": 3
+            "scaleInEditor": 5.5
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/personagens.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 4,
+            "scaleInEditor": 9
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/personagens.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 4,
+            "scaleInEditor": 9
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/pig.tsx": {
+            "dynamicWrapping": false
+        },
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/player.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/mapaTESTE.tmx": {
             "scale": 0.25,
@@ -538,10 +779,10 @@
                 4
             ],
             "scale": 0.75,
-            "selectedLayer": 5,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 56.66666666666663,
-                "y": -124.66666666666674
+                "x": 24.66666666666663,
+                "y": -80.66666666666674
             }
         },
         "MapaInf.tmx#Cliff": {
@@ -567,6 +808,160 @@
         "forest_demo_objects.tsx": {
             "scaleInDock": 1
         },
+        "game.tmj": {
+            "expandedGroupLayers": [
+                12,
+                15,
+                22
+            ],
+            "expandedObjectLayers": [
+                36
+            ],
+            "scale": 1.5,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 482.3333333333333,
+                "y": 627.6666666666666
+            }
+        },
+        "game.tmj#Bridge_Wood": {
+            "scaleInDock": 1
+        },
+        "game.tmj#Calf": {
+            "scaleInDock": 1
+        },
+        "game.tmj#Chick": {
+            "scaleInDock": 1
+        },
+        "game.tmj#Chicken": {
+            "scaleInDock": 1
+        },
+        "game.tmj#Cliff": {
+            "scaleInDock": 1
+        },
+        "game.tmj#Cow": {
+            "scaleInDock": 1
+        },
+        "game.tmj#CuteFantasy.Beach": {
+            "scaleInDock": 1
+        },
+        "game.tmj#FarmLand_Tile": {
+            "scaleInDock": 1
+        },
+        "game.tmj#Icons": {
+            "scaleInDock": 1
+        },
+        "game.tmj#PC Computer - Stardew Valley - Crops": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "game.tmj#Path_Tile": {
+            "scaleInDock": 1
+        },
+        "game.tmj#Props-All": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "game.tmj#TilesetDesert": {
+            "scaleInDock": 1
+        },
+        "game.tmj#TilesetElement": {
+            "scaleInDock": 1
+        },
+        "game.tmj#TilesetHouse": {
+            "scaleInDock": 3
+        },
+        "game.tmj#TilesetVillageAbandoned": {
+            "scaleInDock": 1
+        },
+        "game.tmj#Water": {
+            "scaleInDock": 1
+        },
+        "game.tmj#farm_exterior_tileset_by_aveontrainer_dej3gqt": {
+            "scaleInDock": 1
+        },
+        "game.tmj#forest_demo_objects": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "game.tmj#free_farm_plants1": {
+            "scaleInDock": 1
+        },
+        "game.tmx": {
+            "expandedGroupLayers": [
+                12
+            ],
+            "expandedObjectLayers": [
+                36
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 643.3333333333333,
+                "y": 513.9999999999999
+            }
+        },
+        "game.tmx#Bridge_Wood": {
+            "scaleInDock": 1
+        },
+        "game.tmx#Calf": {
+            "scaleInDock": 1
+        },
+        "game.tmx#Chick": {
+            "scaleInDock": 1
+        },
+        "game.tmx#Chicken": {
+            "scaleInDock": 1
+        },
+        "game.tmx#Cliff": {
+            "scaleInDock": 1
+        },
+        "game.tmx#Cow": {
+            "scaleInDock": 1
+        },
+        "game.tmx#CuteFantasy.Beach": {
+            "scaleInDock": 1
+        },
+        "game.tmx#FarmLand_Tile": {
+            "scaleInDock": 1
+        },
+        "game.tmx#Icons": {
+            "scaleInDock": 1
+        },
+        "game.tmx#PC Computer - Stardew Valley - Crops": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "game.tmx#Path_Tile": {
+            "scaleInDock": 1
+        },
+        "game.tmx#Props-All": {
+            "scaleInDock": 1
+        },
+        "game.tmx#TilesetDesert": {
+            "scaleInDock": 1
+        },
+        "game.tmx#TilesetElement": {
+            "scaleInDock": 1
+        },
+        "game.tmx#TilesetHouse": {
+            "scaleInDock": 3
+        },
+        "game.tmx#TilesetVillageAbandoned": {
+            "scaleInDock": 1
+        },
+        "game.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "game.tmx#farm_exterior_tileset_by_aveontrainer_dej3gqt": {
+            "scaleInDock": 1
+        },
+        "game.tmx#forest_demo_objects": {
+            "scaleInDock": 1
+        },
+        "game.tmx#free_farm_plants1": {
+            "scaleInDock": 1
+        },
         "mapa2.tmj": {
             "scale": 0.63234375,
             "selectedLayer": 0,
@@ -583,6 +978,34 @@
                 "y": 960.7376104494815
             }
         },
+        "mapinha.tmj": {
+            "expandedGroupLayers": [
+                22,
+                12,
+                15
+            ],
+            "expandedObjectLayers": [
+                23,
+                31,
+                36,
+                20
+            ],
+            "scale": 0.75,
+            "selectedLayer": 19,
+            "viewCenter": {
+                "x": 1189.3333333333333,
+                "y": 648.6666666666667
+            }
+        },
+        "mapinha.tmj#Cliff": {
+            "scaleInDock": 1
+        },
+        "mapinha.tmj#TilesetDesert": {
+            "scaleInDock": 1
+        },
+        "mapinha.tmj#TilesetHouse": {
+            "scaleInDock": 1
+        },
         "mapinha.tmx": {
             "expandedGroupLayers": [
                 22,
@@ -593,10 +1016,10 @@
                 36
             ],
             "scale": 0.75,
-            "selectedLayer": 11,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 114,
-                "y": 7.3333333333332575
+                "x": 128,
+                "y": 201.99999999999994
             }
         },
         "mapinha.tmx#Cliff": {
@@ -609,40 +1032,43 @@
             "scaleInDock": 3
         }
     },
-    "last.externalTilesetPath": "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Cute_Fantasy_Free",
-    "last.imagePath": "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/free version/free version",
+    "last.exportedFilePath": "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/mapasTILED",
+    "last.externalTilesetPath": "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/mapasTILED",
+    "last.imagePath": "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Props",
     "map.fixedSize": false,
     "map.height": 18,
+    "map.lastUsedExportFilter": "Arquivos de mapa JSON (*.tmj *.json)",
     "map.lastUsedFormat": "json",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
-        "mapinha.tmx"
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj"
     ],
     "project": "Map.tiled-project",
     "property.type": "object",
     "recentFiles": [
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Farm Food Icons/tiles.tsx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/farming-pack-free_version/free_farm_plants2.tsx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/farming-pack-free_version/free_farm_plants1.tsx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/farming-pack-free_version/free_campfire.tsx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/stardew valley/PC Computer - Stardew Valley - Crops.tsx",
-        "mapinha.tmx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Props-All.tsx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetElement.tsx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetNature.tsx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetDesert.tsx",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/TilesetHouse.tsx",
-        "MapaInf.tmx"
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/personagens.tsx",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Stone and Rock.tsj",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Tree.tsj",
+        "C:/Users/raque/AppData/Local/Temp/MicrosoftEdgeDownloads/cfab42f2-aeff-4c0b-9ef9-8ae7300f99b9/tileset.tsx",
+        "C:/Users/raque/AppData/Local/Temp/MicrosoftEdgeDownloads/9c41385d-f063-4b18-aee7-378611d6fd67/tileset.tsx",
+        "game.tmx",
+        "game.tmj",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/personagens.tsj",
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/free version/Adventure_Character_Simple.tsx",
+        "Adventure_Character_Simple.tsx"
     ],
-    "tileset.lastUsedFormat": "tsx",
+    "resizeMap.removeObjects": false,
+    "tileset.lastUsedFormat": "json",
     "tileset.margin": 0,
     "tileset.spacing": 0,
     "tileset.tileSize": {
-        "height": 16,
-        "width": 16
+        "height": 32,
+        "width": 32
     },
-    "tileset.transparentColor": "#c7c7c7",
+    "tileset.transparentColor": "#ffffff",
     "tileset.type": 0,
-    "tileset.useTransparentColor": true
+    "tileset.useTransparentColor": false
 }

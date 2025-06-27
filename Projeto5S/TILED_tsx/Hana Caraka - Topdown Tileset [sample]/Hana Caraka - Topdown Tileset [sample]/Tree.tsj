@@ -1,0 +1,14 @@
+{ "columns":4,
+ "image":"Props\/Tree.png",
+ "imageheight":48,
+ "imagewidth":128,
+ "margin":0,
+ "name":"Tree",
+ "spacing":0,
+ "tilecount":4,
+ "tiledversion":"1.11.2",
+ "tileheight":48,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}

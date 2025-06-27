@@ -1,115 +1,95 @@
 import arcade
+import arcade.tilemap
 
-# Constants
-SCREEN_WIDTH = 800
-SCREEN_HEIGHT = 600
-BALL_RADIUS = 10
-PADDLE_WIDTH = 10
-PADDLE_HEIGHT = 100
-PADDLE_SPEED = 10
-BALL_SPEED = 5
+# Configurações gerais
+WIDTH = 800
+HEIGHT = 600
+TILE_SCALING = 1.9
+PLAYER_SPEED = 5
 
-class PongGame(arcade.Window):
+class Player(arcade.Sprite):
+    """Classe para o jogador com movimentação livre."""
+    def __init__(self, image_path, scale):
+        super().__init__(image_path, scale)
+        self.change_x = 0
+        self.change_y = 0
+
+    def update(self):
+        """Atualiza a posição do jogador."""
+        self.center_x += self.change_x
+        self.center_y += self.change_y
+
+    def on_key_press(self, key):
+        """Movimenta o jogador nas quatro direções."""
+        if key == arcade.key.UP:
+            self.change_y = PLAYER_SPEED
+        elif key == arcade.key.DOWN:
+            self.change_y = -PLAYER_SPEED
+        elif key == arcade.key.LEFT:
+            self.change_x = -PLAYER_SPEED
+        elif key == arcade.key.RIGHT:
+            self.change_x = PLAYER_SPEED
+
+    def on_key_release(self, key):
+        """Para o movimento ao soltar a tecla."""
+        if key in (arcade.key.UP, arcade.key.DOWN):
+            self.change_y = 0
+        elif key in (arcade.key.LEFT, arcade.key.RIGHT):
+            self.change_x = 0
+
+class MyGame(arcade.Window):
+    """Classe principal do jogo."""
     def __init__(self):
-        super().__init__(SCREEN_WIDTH, SCREEN_HEIGHT, "Pong")
-        self.player1_y = SCREEN_HEIGHT // 2
-        self.player2_y = SCREEN_HEIGHT // 2
-        self.ball_x = SCREEN_WIDTH // 2
-        self.ball_y = SCREEN_HEIGHT // 2
-        self.ball_dx = BALL_SPEED
-        self.ball_dy = BALL_SPEED
-        self.player1_score = 0
-        self.player2_score = 0
-        self.keys_pressed = set()
-        self.winning_score = 5
-        self.game_over_printed = False
+        super().__init__(WIDTH, HEIGHT, "Meu Jogo 2D Top-Down")
+        self.scene = None
+        self.player = None
+        self.camera = arcade.Camera2D()
+
+    def setup(self):
+        """Configura o jogo."""
+        try:
+            tile_map = arcade.load_tilemap("./mapasTILED/game.tmj", scaling=TILE_SCALING)
+            self.scene = arcade.Scene.from_tilemap(tile_map)
+        except Exception as e:
+            print(f"Erro ao carregar o mapa: {e}")
+            self.scene = arcade.Scene()
+
+        # Criar o jogador
+        self.player = Player("./TILED_tsx/urban/kenney_rpg-urban-pack/Tiles/tile_0105.png", 2.5)
+        self.player.center_x = WIDTH // 2
+        self.player.center_y = HEIGHT // 2
+
+        # Criar uma SpriteList para o jogador
+        self.scene.add_sprite_list("Player")
+        self.scene.add_sprite("Player", self.player)
 
     def on_draw(self):
-        arcade.start_render()
-        arcade.draw_text(f"Player 1: {self.player1_score}", 10, SCREEN_HEIGHT - 30, arcade.color.WHITE, 20)
-        arcade.draw_text(f"Player 2: {self.player2_score}", SCREEN_WIDTH - 140, SCREEN_HEIGHT - 30, arcade.color.WHITE, 20)
-        arcade.draw_rectangle_filled(PADDLE_WIDTH / 2, self.player1_y, PADDLE_WIDTH, PADDLE_HEIGHT, arcade.color.WHITE)
-        arcade.draw_rectangle_filled(SCREEN_WIDTH - PADDLE_WIDTH / 2, self.player2_y, PADDLE_WIDTH, PADDLE_HEIGHT, arcade.color.WHITE)
-        arcade.draw_circle_filled(self.ball_x, self.ball_y, BALL_RADIUS, arcade.color.WHITE)
-
-    def update(self, delta_time):
-        if self.player1_score >= self.winning_score or self.player2_score >= self.winning_score:
-            return  # Stop updating the game if it's over
-        
-        self.move_paddles()
-        self.ball_x += self.ball_dx
-        self.ball_y += self.ball_dy
-
-        # Collision detection with top and bottom walls
-        if self.ball_y <= BALL_RADIUS or self.ball_y >= SCREEN_HEIGHT - BALL_RADIUS:
-            self.ball_dy *= -1
-
-        # Collision detection with paddles
-        if (self.ball_x - BALL_RADIUS <= PADDLE_WIDTH and self.player1_y - PADDLE_HEIGHT / 2 <= self.ball_y <= self.player1_y + PADDLE_HEIGHT / 2) \
-                or (self.ball_x + BALL_RADIUS >= SCREEN_WIDTH - PADDLE_WIDTH and self.player2_y - PADDLE_HEIGHT / 2 <= self.ball_y <= self.player2_y + PADDLE_HEIGHT / 2):
-            self.ball_dx *= -1
-
-        # Scoring
-        if self.ball_x <= 0:
-            self.player2_score += 1
-            self.reset_ball()
-        elif self.ball_x >= SCREEN_WIDTH:
-            self.player1_score += 1
-            self.reset_ball()
-
-        if self.player1_score >= self.winning_score or self.player2_score >= self.winning_score:
-            self.game_over()
-
-    def reset_ball(self):
-        self.ball_x = SCREEN_WIDTH // 2
-        self.ball_y = SCREEN_HEIGHT // 2
-        self.ball_dx = BALL_SPEED
-        self.ball_dy = BALL_SPEED
-
-    def move_paddles(self):
-        if arcade.key.W in self.keys_pressed:
-            self.player1_y += PADDLE_SPEED
-        if arcade.key.S in self.keys_pressed:
-            self.player1_y -= PADDLE_SPEED
-        if arcade.key.UP in self.keys_pressed:
-            self.player2_y += PADDLE_SPEED
-        if arcade.key.DOWN in self.keys_pressed:
-            self.player2_y -= PADDLE_SPEED
-
-    def game_over(self):
-        # Determine the winner based on scores
-        if self.player1_score > self.player2_score:
-            winner = "Player 1"
-        elif self.player2_score > self.player1_score:
-            winner = "Player 2"
-        else:
-            winner = "It's a tie"
-
-        # Print the winner
-        if not self.game_over_printed:
-            print(f"Game Over! {winner} wins!")
-            print("Press 'R' to restart the game.")
-            self.game_over_printed = True
-
-    def restart_game(self):
-        self.player1_y = SCREEN_HEIGHT // 2
-        self.player2_y = SCREEN_HEIGHT // 2
-        self.player1_score = 0
-        self.player2_score = 0
-        self.reset_ball()
-        self.game_over_printed = False
+        """Desenha a cena."""
+        self.clear()
+        with self.camera.activate():
+            self.scene.draw()
 
     def on_key_press(self, key, modifiers):
-        self.keys_pressed.add(key)
-        if key == arcade.key.R:  # Restart game when 'R' key is pressed
-            self.restart_game()
+        """Controla as teclas pressionadas."""
+        self.player.on_key_press(key)
 
     def on_key_release(self, key, modifiers):
-        self.keys_pressed.remove(key) if key in self.keys_pressed else None
+        """Controla as teclas soltas."""
+        self.player.on_key_release(key)
 
-def main():
-    game = PongGame()
-    arcade.run()
+    def update(self, delta_time):
+        """Atualiza a posição do jogador e a câmera."""
+        self.scene.update()  # Agora a cena atualiza o player corretamente
 
+        # Calcula o novo centro da câmera baseado na posição do jogador
+        target_x = max(self.player.center_x - WIDTH // 2, 0)
+        target_y = max(self.player.center_y - HEIGHT // 2, 0)
+
+        # Faz interpolação suave da posição da câmera
+        self.camera.position = arcade.math.lerp_2d(self.camera.position, (target_x, target_y), 0.2)
+
+# Rodar o jogo
 if __name__ == "__main__":
-    main()
+    game = MyGame()
+    game.setup()
+    arcade.run()
