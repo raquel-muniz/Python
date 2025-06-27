@@ -3,7 +3,6 @@ import arcade.camera
 import arcade.draw
 import arcade.tilemap
 
-# Configurações
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 TILE_SCALING = 1.5
@@ -16,9 +15,8 @@ PLAYER_TEXTURES = {
     "down": "personagens/tile_0105.png",
     "right": "personagens/tile_0107.png",
     "left": "personagens/tile_0104.png"
+
 }
-
-
 class Player(arcade.Sprite):
     def __init__(self):
         super().__init__(PLAYER_TEXTURES["down"], PLAYER_SCALING)
@@ -41,7 +39,7 @@ class Player(arcade.Sprite):
 
 class MyGame(arcade.Window):
     def __init__(self):
-        super().__init__(SCREEN_WIDTH, SCREEN_HEIGHT, "Meu Jogo 2D Top-Down", resizable=False)
+        super().__init__(SCREEN_WIDTH, SCREEN_HEIGHT, "Fazendinha do distrito", resizable=False)
         arcade.set_background_color((0, 149, 233))
         self.scene = arcade.Scene()
         self.player = None
@@ -62,7 +60,6 @@ class MyGame(arcade.Window):
             self.scene = arcade.Scene()
             self.wall_list = arcade.SpriteList()
 
-        # Inicializa o jogador
         self.player = Player()
         self.player.center_x = SCREEN_WIDTH // 2
         self.player.center_y = SCREEN_HEIGHT // 2
@@ -77,11 +74,9 @@ class MyGame(arcade.Window):
         old_position = self.player.position
         self.player.update()
 
-        # Verifica colisão com paredes
         if arcade.check_for_collision_with_list(self.player, self.wall_list):
             self.player.position = old_position
 
-        # Atualiza posição da câmera suavemente
         target = (
             max(self.player.center_x - SCREEN_WIDTH // 10, 0),
             max(self.player.center_y - SCREEN_HEIGHT // 10, 0),
@@ -107,7 +102,6 @@ class MyGame(arcade.Window):
             self.player.change_y = 0
         elif key in (arcade.key.LEFT, arcade.key.RIGHT):
             self.player.change_x = 0
-
 
 if __name__ == "__main__":
     game = MyGame()

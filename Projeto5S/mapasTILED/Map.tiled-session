@@ -563,6 +563,7 @@
             "scaleInDock": 1
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#Props-All": {
+            "dynamicWrapping": false,
             "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
@@ -574,19 +575,23 @@
             "scaleInDock": 1
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#TilesetHouse": {
-            "scaleInDock": 3
+            "scaleInDock": 3,
+            "scaleInEditor": 1
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#TilesetVillageAbandoned": {
             "scaleInDock": 1
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#Water": {
+            "dynamicWrapping": false,
             "scaleInDock": 1
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#farm_exterior_tileset_by_aveontrainer_dej3gqt": {
             "scaleInDock": 1
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#forest_demo_objects": {
-            "scaleInDock": 1
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 3.15
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj#free_farm_plants1": {
             "scaleInDock": 1
@@ -741,8 +746,8 @@
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/UrbanPack.tsx": {
             "dynamicWrapping": true,
-            "scaleInDock": 1,
-            "scaleInEditor": 5.5
+            "scaleInDock": 3,
+            "scaleInEditor": 3.15
         },
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/personagens.tsj": {
             "dynamicWrapping": true,
@@ -1034,7 +1039,7 @@
     },
     "last.exportedFilePath": "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/mapasTILED",
     "last.externalTilesetPath": "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/mapasTILED",
-    "last.imagePath": "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Hana Caraka - Topdown Tileset [sample]/Hana Caraka - Topdown Tileset [sample]/Props",
+    "last.imagePath": "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets",
     "map.fixedSize": false,
     "map.height": 18,
     "map.lastUsedExportFilter": "Arquivos de mapa JSON (*.tmj *.json)",
@@ -1047,6 +1052,7 @@
     "project": "Map.tiled-project",
     "property.type": "object",
     "recentFiles": [
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/UrbanPack.tsx",
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmj",
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/game.tmx",
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/personagens.tsx",
@@ -1057,16 +1063,15 @@
         "game.tmx",
         "game.tmj",
         "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/urban/personagens.tsj",
-        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/free version/Adventure_Character_Simple.tsx",
-        "Adventure_Character_Simple.tsx"
+        "C:/Users/raque/OneDrive/Documentos/NetBeansProjects/Python/Projeto5S/TILED_tsx/free version/Adventure_Character_Simple.tsx"
     ],
     "resizeMap.removeObjects": false,
     "tileset.lastUsedFormat": "json",
     "tileset.margin": 0,
     "tileset.spacing": 0,
     "tileset.tileSize": {
-        "height": 32,
-        "width": 32
+        "height": 48,
+        "width": 64
     },
     "tileset.transparentColor": "#ffffff",
     "tileset.type": 0,

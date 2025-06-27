@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.10" tiledversion="1.11.2" name="UrbanPack" tilewidth="16" tileheight="16" tilecount="486" columns="0">
+<tileset version="1.10" tiledversion="1.11.2" name="UrbanPack" tilewidth="16" tileheight="16" tilecount="414" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="486">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0000.png" width="16" height="16"/>
@@ -70,18 +70,6 @@
  <tile id="508">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0022.png" width="16" height="16"/>
  </tile>
- <tile id="509">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0023.png" width="16" height="16"/>
- </tile>
- <tile id="510">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0024.png" width="16" height="16"/>
- </tile>
- <tile id="511">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0025.png" width="16" height="16"/>
- </tile>
- <tile id="512">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0026.png" width="16" height="16"/>
- </tile>
  <tile id="513">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0027.png" width="16" height="16"/>
  </tile>
@@ -150,18 +138,6 @@
  </tile>
  <tile id="535">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0049.png" width="16" height="16"/>
- </tile>
- <tile id="536">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0050.png" width="16" height="16"/>
- </tile>
- <tile id="537">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0051.png" width="16" height="16"/>
- </tile>
- <tile id="538">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0052.png" width="16" height="16"/>
- </tile>
- <tile id="539">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0053.png" width="16" height="16"/>
  </tile>
  <tile id="540">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0054.png" width="16" height="16"/>
@@ -232,18 +208,6 @@
  <tile id="562">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0076.png" width="16" height="16"/>
  </tile>
- <tile id="563">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0077.png" width="16" height="16"/>
- </tile>
- <tile id="564">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0078.png" width="16" height="16"/>
- </tile>
- <tile id="565">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0079.png" width="16" height="16"/>
- </tile>
- <tile id="566">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0080.png" width="16" height="16"/>
- </tile>
  <tile id="567">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0081.png" width="16" height="16"/>
  </tile>
@@ -312,18 +276,6 @@
  </tile>
  <tile id="589">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0103.png" width="16" height="16"/>
- </tile>
- <tile id="590">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0104.png" width="16" height="16"/>
- </tile>
- <tile id="591">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0105.png" width="16" height="16"/>
- </tile>
- <tile id="592">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0106.png" width="16" height="16"/>
- </tile>
- <tile id="593">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0107.png" width="16" height="16"/>
  </tile>
  <tile id="594">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0108.png" width="16" height="16"/>
@@ -394,18 +346,6 @@
  <tile id="616">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0130.png" width="16" height="16"/>
  </tile>
- <tile id="617">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0131.png" width="16" height="16"/>
- </tile>
- <tile id="618">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0132.png" width="16" height="16"/>
- </tile>
- <tile id="619">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0133.png" width="16" height="16"/>
- </tile>
- <tile id="620">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0134.png" width="16" height="16"/>
- </tile>
  <tile id="621">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0135.png" width="16" height="16"/>
  </tile>
@@ -474,18 +414,6 @@
  </tile>
  <tile id="643">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0157.png" width="16" height="16"/>
- </tile>
- <tile id="644">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0158.png" width="16" height="16"/>
- </tile>
- <tile id="645">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0159.png" width="16" height="16"/>
- </tile>
- <tile id="646">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0160.png" width="16" height="16"/>
- </tile>
- <tile id="647">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0161.png" width="16" height="16"/>
  </tile>
  <tile id="648">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0162.png" width="16" height="16"/>
@@ -556,18 +484,6 @@
  <tile id="670">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0184.png" width="16" height="16"/>
  </tile>
- <tile id="671">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0185.png" width="16" height="16"/>
- </tile>
- <tile id="672">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0186.png" width="16" height="16"/>
- </tile>
- <tile id="673">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0187.png" width="16" height="16"/>
- </tile>
- <tile id="674">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0188.png" width="16" height="16"/>
- </tile>
  <tile id="675">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0189.png" width="16" height="16"/>
  </tile>
@@ -636,18 +552,6 @@
  </tile>
  <tile id="697">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0211.png" width="16" height="16"/>
- </tile>
- <tile id="698">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0212.png" width="16" height="16"/>
- </tile>
- <tile id="699">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0213.png" width="16" height="16"/>
- </tile>
- <tile id="700">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0214.png" width="16" height="16"/>
- </tile>
- <tile id="701">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0215.png" width="16" height="16"/>
  </tile>
  <tile id="702">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0216.png" width="16" height="16"/>
@@ -718,18 +622,6 @@
  <tile id="724">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0238.png" width="16" height="16"/>
  </tile>
- <tile id="725">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0239.png" width="16" height="16"/>
- </tile>
- <tile id="726">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0240.png" width="16" height="16"/>
- </tile>
- <tile id="727">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0241.png" width="16" height="16"/>
- </tile>
- <tile id="728">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0242.png" width="16" height="16"/>
- </tile>
  <tile id="729">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0243.png" width="16" height="16"/>
  </tile>
@@ -798,18 +690,6 @@
  </tile>
  <tile id="751">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0265.png" width="16" height="16"/>
- </tile>
- <tile id="752">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0266.png" width="16" height="16"/>
- </tile>
- <tile id="753">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0267.png" width="16" height="16"/>
- </tile>
- <tile id="754">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0268.png" width="16" height="16"/>
- </tile>
- <tile id="755">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0269.png" width="16" height="16"/>
  </tile>
  <tile id="756">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0270.png" width="16" height="16"/>
@@ -880,18 +760,6 @@
  <tile id="778">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0292.png" width="16" height="16"/>
  </tile>
- <tile id="779">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0293.png" width="16" height="16"/>
- </tile>
- <tile id="780">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0294.png" width="16" height="16"/>
- </tile>
- <tile id="781">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0295.png" width="16" height="16"/>
- </tile>
- <tile id="782">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0296.png" width="16" height="16"/>
- </tile>
  <tile id="783">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0297.png" width="16" height="16"/>
  </tile>
@@ -960,18 +828,6 @@
  </tile>
  <tile id="805">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0319.png" width="16" height="16"/>
- </tile>
- <tile id="806">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0320.png" width="16" height="16"/>
- </tile>
- <tile id="807">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0321.png" width="16" height="16"/>
- </tile>
- <tile id="808">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0322.png" width="16" height="16"/>
- </tile>
- <tile id="809">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0323.png" width="16" height="16"/>
  </tile>
  <tile id="810">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0324.png" width="16" height="16"/>
@@ -1042,18 +898,6 @@
  <tile id="832">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0346.png" width="16" height="16"/>
  </tile>
- <tile id="833">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0347.png" width="16" height="16"/>
- </tile>
- <tile id="834">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0348.png" width="16" height="16"/>
- </tile>
- <tile id="835">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0349.png" width="16" height="16"/>
- </tile>
- <tile id="836">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0350.png" width="16" height="16"/>
- </tile>
  <tile id="837">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0351.png" width="16" height="16"/>
  </tile>
@@ -1122,18 +966,6 @@
  </tile>
  <tile id="859">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0373.png" width="16" height="16"/>
- </tile>
- <tile id="860">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0374.png" width="16" height="16"/>
- </tile>
- <tile id="861">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0375.png" width="16" height="16"/>
- </tile>
- <tile id="862">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0376.png" width="16" height="16"/>
- </tile>
- <tile id="863">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0377.png" width="16" height="16"/>
  </tile>
  <tile id="864">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0378.png" width="16" height="16"/>
@@ -1204,18 +1036,6 @@
  <tile id="886">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0400.png" width="16" height="16"/>
  </tile>
- <tile id="887">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0401.png" width="16" height="16"/>
- </tile>
- <tile id="888">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0402.png" width="16" height="16"/>
- </tile>
- <tile id="889">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0403.png" width="16" height="16"/>
- </tile>
- <tile id="890">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0404.png" width="16" height="16"/>
- </tile>
  <tile id="891">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0405.png" width="16" height="16"/>
  </tile>
@@ -1284,18 +1104,6 @@
  </tile>
  <tile id="913">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0427.png" width="16" height="16"/>
- </tile>
- <tile id="914">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0428.png" width="16" height="16"/>
- </tile>
- <tile id="915">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0429.png" width="16" height="16"/>
- </tile>
- <tile id="916">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0430.png" width="16" height="16"/>
- </tile>
- <tile id="917">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0431.png" width="16" height="16"/>
  </tile>
  <tile id="918">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0432.png" width="16" height="16"/>
@@ -1366,18 +1174,6 @@
  <tile id="940">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0454.png" width="16" height="16"/>
  </tile>
- <tile id="941">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0455.png" width="16" height="16"/>
- </tile>
- <tile id="942">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0456.png" width="16" height="16"/>
- </tile>
- <tile id="943">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0457.png" width="16" height="16"/>
- </tile>
- <tile id="944">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0458.png" width="16" height="16"/>
- </tile>
  <tile id="945">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0459.png" width="16" height="16"/>
  </tile>
@@ -1446,17 +1242,5 @@
  </tile>
  <tile id="967">
   <image source="kenney_rpg-urban-pack/Tiles/tile_0481.png" width="16" height="16"/>
- </tile>
- <tile id="968">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0482.png" width="16" height="16"/>
- </tile>
- <tile id="969">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0483.png" width="16" height="16"/>
- </tile>
- <tile id="970">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0484.png" width="16" height="16"/>
- </tile>
- <tile id="971">
-  <image source="kenney_rpg-urban-pack/Tiles/tile_0485.png" width="16" height="16"/>
  </tile>
 </tileset>
